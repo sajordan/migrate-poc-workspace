@@ -1,0 +1,4 @@
+cobol/*.cbl zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
+copybook/*.cpy zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
+bms/*.bms zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
+link/*.lnk zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
